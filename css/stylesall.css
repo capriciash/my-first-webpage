@@ -1,0 +1,37 @@
+h1{
+font-family:Arial;
+font-size: 50px;
+color: #b27fb2;
+}
+
+p{
+font-size:35px;
+color: #899bc1;
+  }
+ol{
+font-size:30px;
+color:#899bc1;
+}
+ul{
+  font-size:30px;
+  color:#899bc1;
+  }
+
+  h2{
+font-family:Arial;
+font-size:40px;
+color: #e43f4d;
+
+  }
+
+  h3{
+    font-family:Arial;
+    font-size:30px;
+    color: #e43f4d;
+  }
+h4{
+  font-family:Arial;
+  font-size:20px;
+  color: #fa8072;
+  
+}
