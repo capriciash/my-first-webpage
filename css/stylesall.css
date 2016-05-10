@@ -33,5 +33,11 @@ h4{
   font-family:Arial;
   font-size:20px;
   color: #fa8072;
-  
+}
+
+.list {
+  border: 6px solid blue;
+  padding: 8px;
+  margin: 15px;
+  background-color: yellow;
 }
